@@ -1,1 +1,9 @@
 this is the software development lifecycle txt
+
+
+what is devops
+DevOps is a software development method in which the development team
+can cooperate with operations/functional departments at all stages of
+software development. This includes product design, development, testing,
+debugging and support.
+
