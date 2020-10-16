@@ -1,1 +1,4 @@
-this is devops txt
+Comp3104 course information
+
+Instructor
+	-Priteshkumar Patel;
