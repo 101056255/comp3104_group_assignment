@@ -1,1 +1,8 @@
 Software Development Life Cycle (SDLC)
+
+What is SDLC?
+SDLC is reffered to as the application development life cycle which is a process
+for planning, creating, testing and deploying an information system. There are usually
+6 stages in the cycle which include requirment analysis, design, development and testing,
+implementation, documentation and evaluation.
+
