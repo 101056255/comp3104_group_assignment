@@ -1,0 +1,17 @@
+Software Development Life Cycle (SDLC)
+
+What is SDLC?
+
+SDLC is reffered to as the application development life cycle which is a process
+for planning, creating, testing and deploying an information system. There are usually
+6 stages in the cycle which include requirment analysis, design, development and testing,
+implementation, documentation and evaluation.
+
+Importance of Devops in SDLC
+- Development and operations work closely to accelerate innovation
+- Devops ensures higher quality software can be devoloped more quickly and with more reliability
+- Updates to products are small but frequent
+- Continuous feedback and process improvement
+- automation of manual development processs
+
+All these facts show how Devops can create an efficient, reliable and higher quality model for software development.
