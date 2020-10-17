@@ -1,1 +1,11 @@
-Hello World
+George Brown College
+
+George Brown college has 3 campuses across Toronto:
+
+St James
+Waterfront
+and Casa Loma
+
+George Brown college was founded in the 1960s and opened its doors on March 1st 1968.
+
+
