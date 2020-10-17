@@ -1,2 +1,20 @@
 COMP3104 Devops Course information
 
+Over the duration of the year, We will be learning about why we are using devops. Devops is a set of practices that combine software development and IT operations.
+We will learn how to use BASH commands and how to to use github. We will learn how to configure git on local environment
+
+Other things include things like: 
+-Version Control Systems
+-SSH and Access Tokens
+-VCS terminology
+-CLI text editors 
+-Leveraging VCS for DevOps
+- Application Architectures,
+- Monolith vs Microservice
+architecture
+- Vertical & horizontal scaling
+- Tech stack behind reliable
+applications
+- Remote VCS repositories
+- Creating remote repositories
+- Git CLI
