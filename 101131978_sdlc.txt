@@ -1,0 +1,19 @@
+this is the software development lifecycle txt
+
+
+what is devops
+DevOps is a software development method in which the development team
+can cooperate with operations/functional departments at all stages of
+software development. This includes product design, development, testing,
+debugging and support.
+
+one of the benefits of learning devops
+
+	-Increase Deployment Success Rates
+		Programming errors are one of the main reasons for
+		deployment failures. Frequent code releases caused
+		by DevOps methods can ensure that problems are found
+		at an early stage. With the joint efforts of the
+		developers and the operations team, the recovery time
+		has been greatly shortened
+
