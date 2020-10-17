@@ -18,3 +18,21 @@ applications
 - Remote VCS repositories
 - Creating remote repositories
 - Git CLI
+
+We will then further look into Developer Operation Landscapes.
+This includes things like:
+
+- DevOps roles & responsibilities
+- Tools & techniques in the DevOps sphere
+- DevOps culture and lifecycle
+- Core DevOps principles
+- Career opportunities in DevOps
+
+Also We will look into Travis communications as wel as Hosting high geared Single Page applications.
+These include:
+-The anatomy of a Single Page App
+- Lightning fast deploys with
+SPAs
+- Hosting SPAs
+- Working with front-end developers
+- Front end tooling found for build sequencing
