@@ -1,0 +1,17 @@
+A systems development life cycle is composed of a number of clearly defined and distinct work phases which are used by systems engineers and 
+systems developers to plan for, design, build, test, and deliver information systems. Like anything that is manufactured on an assembly line, 
+an SDLC aims to produce high-quality systems that meet or exceed customer expectations, based on customer requirements, by delivering systems 
+which move through each clearly defined phase, within scheduled time frames and cost estimates.[3] Computer systems are complex and often 
+(especially with the recent rise of service-oriented architecture) link multiple traditional systems potentially supplied by different software vendors. 
+To manage this level of complexity, a number of SDLC models or methodologies have been created, such as waterfall, spiral, Agile software development, 
+rapid prototyping, incremental, and synchronize and stabilize.
+
+SDLC can be described along a spectrum of agile to iterative to sequential methodologies. 
+Agile methodologies, such as XP and Scrum, focus on lightweight processes which allow for rapid changes 
+(without necessarily following the pattern of SDLC approach) along the development cycle. 
+Iterative methodologies, such as Rational Unified Process and dynamic systems development method,
+focus on limited project scope and expanding or improving products by multiple iterations. 
+Sequential or big-design-up-front (BDUF) models, such as waterfall, 
+focus on complete and correct planning to guide large projects and risks to successful and predictable results.
+Other models, such as anamorphic development, tend to focus on a form of development that is guided by project 
+scope and adaptive iterations of feature development.
