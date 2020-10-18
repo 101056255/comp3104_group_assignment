@@ -1,0 +1,1 @@
+ DevOps allows for constant review throughout the software development process to think about the software holistically. This makes for a more stable release and, in the end, a better product for the end-user.

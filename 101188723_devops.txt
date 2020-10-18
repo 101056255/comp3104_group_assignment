@@ -1,0 +1,2 @@
+the devops course in t127 at george brown is a course that combines software development IT and IT operations. We learn about Intro, BASH &
+The CLI,Git, GitHub & more BASH, Version Control for DevOps, and more.
