@@ -1,3 +1,15 @@
 the devops course in t127 at george brown is a course that combines software development IT and IT operations. We learn about Intro, BASH &
 The CLI,Git, GitHub & more BASH, Version Control for DevOps, and more. It is a 15 week course. Some of the topics are Why DevOps?,
-, Future of DevOps,Version Control Systems , Utilization of VCS
+, Future of DevOps,Version Control Systems , Utilization of VCS.
+
+it also goes over  Hosting High
+Geared Single
+Page Applications
+& Work tracking
+tools,
+Continuous
+Integration /
+Continuous
+Deployment, 
+CI/CD Pipeline
+Sequences.
