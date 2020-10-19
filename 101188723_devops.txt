@@ -12,4 +12,18 @@ Integration /
 Continuous
 Deployment, 
 CI/CD Pipeline
-Sequences.
+Sequences. 
+
+The details of these topics include
+
+Mechanisms to integrate and
+validate source code changes
+- Installing and configuring
+Jenkins for CI/CD pipeline
+
+Building pipelines for failures
+- Monitoring pipeline sequences
+- Phases in a CD pipeline
+- Branch deployments in CI/CD
+pipelines
+- Running feature branches
