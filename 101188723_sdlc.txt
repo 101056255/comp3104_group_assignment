@@ -1,1 +1,15 @@
- DevOps allows for constant review throughout the software development process to think about the software holistically. This makes for a more stable release and, in the end, a better product for the end-user.
+ DevOps allows for constant review throughout the software development process to think about the software holistically. This makes for a more stable release and, in the end, a better product for the end-user.The SDLC process involves several distinct stages, including planning, analysis, design, building, testing, deployment and maintenance. What's the best SDLC methodology? Here are six methodologies, or models, to consider.
+
+The SDLC is the blueprint for the entire project and it includes six common stages, which are: requirement gathering and analysis, software design, coding and implementation, testing, deployment, and maintenance.
+
+The first stage is requirement gathering and analysis, which is when senior leadership begins planning the project. The client provides the requirements to the organization, and analysis begins to determine project approach, deliverables, and anticipated final outcomes. Business requirements from the customer are gathered to determine who will use the software and how.
+
+The second stage is software design. This is when business architects use the requirements gathered from the first stage to produce several designs of the product. Each design is reviewed in a design document by various internal stakeholders. The best design is then selected.
+
+The third stage is coding and implementation, which is when the design documents from the second phase are used to implement the design and produce the code. The code development is the longest part of the SDLC process.
+
+After the code is developed, the fourth stage, testing, can begin. The code is tested based on the customer's requirements to ensure the code works according to specifications.
+
+After the code is tested, the fifth stage, deployment occurs. This is when the product is delivered to the customer.
+
+The final stage is maintenance or post-deployment. Once the product is in use, the customer may experience technical issues, and maintenance of the software is conducted at that time.
